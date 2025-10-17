@@ -32,7 +32,7 @@
 </div>
 <hr />
 <h2>My Projects</h2>
-<table align="center"><tbody>
+<table><tbody>
   <tr><th>Project</th><th>Repository</th><th>Deploy</th></tr>
   <tr><td>NASA API Search</td><td><a href="https://space-search-2025.netlify.app/">Link</a></td><td><a href="https://github.com/sashapervykh/space-search">Link</a></td></tr>
   <tr><td>Chat Application</td><td><a href="https://rss-chat-2025.netlify.app/#/login">Link</a></td><td><a href="https://github.com/sashapervykh/rss-chat">Link</a></td></tr>
