@@ -34,5 +34,6 @@
 <h2>My Projects</h2>
 <table align="center"><tbody>
   <tr><th>Project</th><th>Repository</th><th>Deploy</th></tr>
-  <tr><th>Christmas Shop</th><th><a href="https://christmas-shopping.netlify.app/">Link</a></th><th><a href="https://github.com/sashapervykh/christmas-shop">Link</a></th></tr>
+  <tr><td>Christmas Shop</td><td><a href="https://christmas-shopping.netlify.app/">Link</a></td><td><a href="https://github.com/sashapervykh/christmas-shop">Link</a></td></tr>
+  <tr><td>Christmas Shop</td><td><a href="https://christmas-shopping.netlify.app/">Link</a></td><td><a href="https://github.com/sashapervykh/christmas-shop">Link</a></td></tr>
 </tbody></table>
