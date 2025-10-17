@@ -38,4 +38,5 @@
   <tr><td>Chat Application</td><td><a href="https://rss-chat-2025.netlify.app/#/login">Link</a></td><td><a href="https://github.com/sashapervykh/rss-chat">Link</a></td></tr>
   <tr><td>Decision Making Tool</td><td><a href="https://rolling-scopes-school.github.io/sashapervykh-JSFE2024Q4/decision-making-tool/#/">Link</a></td><td><a href="https://github.com/sashapervykh/decision-making-tool">Link</a></td></tr>
   <tr><td>Christmas Shop</td><td><a href="https://christmas-shopping.netlify.app/">Link</a></td><td><a href="https://github.com/sashapervykh/christmas-shop">Link</a></td></tr>
+  <tr><td>Coffee House</td><td><a href="https://sashapervykh.github.io/coffee-house/">Link</a></td><td><a href="https://github.com/sashapervykh/coffee-house/tree/develop">Link</a></td></tr>
 </tbody></table>
