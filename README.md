@@ -10,6 +10,6 @@
 <h2>Programming Languages</h2>
 <div>
    <img src="https://img.shields.io/badge/-html-E34F26?style=for-the-badge&logo=HTML5&logoColor=white" alt="HTML badge"/>
-   <img src="ttps://img.shields.io/badge/-css-663399?style=for-the-badge&logo=CSS&logoColor=white" alt="CSS badge"/>
+   <img src="https://img.shields.io/badge/-css-663399?style=for-the-badge&logo=CSS&logoColor=white" alt="CSS badge"/>
 </div>
 
