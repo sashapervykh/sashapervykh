@@ -9,7 +9,6 @@
 <hr />
 <h2>Programming Languages</h2>
 <div>
-   <img src="https://img.shields.io/badge/-html-E34F26?style=for-the-badge&logo=HTML5&logoColor=white
-" alt="Move to Telegram"/>
+   <img src="https://img.shields.io/badge/-html-E34F26?style=for-the-badge&logo=HTML5&logoColor=white" alt="HTML badge"/>
 </div>
 
