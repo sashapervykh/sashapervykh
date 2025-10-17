@@ -32,3 +32,6 @@
 </div>
 <hr />
 <h2>My Projects</h2>
+<table><tbody>
+  <tr><th>Project</th><th>Repository</th><th>Deploy</th></tr>
+</tbody></table>
