@@ -32,6 +32,7 @@
 </div>
 <hr />
 <h2>My Projects</h2>
-<table><tbody>
+<table aligh="center"><tbody>
   <tr><th>Project</th><th>Repository</th><th>Deploy</th></tr>
+  <tr><th>NASA API Search</th><th><a href="">Link</a></th><th><a href="">Link</a></th></tr>
 </tbody></table>
