@@ -18,7 +18,7 @@
 <h2>Framework, Libraries and Tools</h2>
 <div>
    <img src="https://img.shields.io/badge/-react-61DAFB?style=for-the-badge&logo=React&logoColor=white" alt="React badge"/>
-   <img src="https://img.shields.io/badge/-css-663399?style=for-the-badge&logo=CSS&logoColor=white" alt="CSS badge"/>
+   <img src="https://img.shields.io/badge/-redux-764ABC?style=for-the-badge&logo=Redux&logoColor=white" alt="Redux badge"/>
    <img src="https://img.shields.io/badge/-javascript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white" alt="JS badge"/>
   <img src="https://img.shields.io/badge/-typescript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white" alt="TS badge"/>
   <img src="https://img.shields.io/badge/-node.js-5FA04E?style=for-the-badge&logo=Nodedotjs&logoColor=white" alt="Node.JS badge"/>
