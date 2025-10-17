@@ -32,7 +32,7 @@
 </div>
 <hr />
 <h2>My Projects</h2>
-<table aligh="center"><tbody>
+<table align="center"><tbody>
   <tr><th>Project</th><th>Repository</th><th>Deploy</th></tr>
-  <tr><th>NASA API Search</th><th><a href="">Link</a></th><th><a href="">Link</a></th></tr>
+  <tr><th>Christmas Shop</th><th><a href="https://christmas-shopping.netlify.app/">Link</a></th><th><a href="https://github.com/sashapervykh/christmas-shop">Link</a></th></tr>
 </tbody></table>
