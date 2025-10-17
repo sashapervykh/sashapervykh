@@ -30,3 +30,5 @@
   <img src="https://img.shields.io/badge/-webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=white" alt="Webpack badge"/>
   <img src="https://img.shields.io/badge/-git-F05032?style=for-the-badge&logo=Git&logoColor=white" alt="GIT badge"/>
 </div>
+<hr />
+<h2>My Projects</h2>
