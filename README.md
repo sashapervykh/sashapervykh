@@ -28,4 +28,5 @@
   <img src="https://img.shields.io/badge/-vitest-6E9F18?style=for-the-badge&logo=Vitest&logoColor=white" alt="Vitest badge"/>
   <img src="https://img.shields.io/badge/-vite-646CFF?style=for-the-badge&logo=Vite&logoColor=white" alt="Vite badge"/>
   <img src="https://img.shields.io/badge/-webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=white" alt="Webpack badge"/>
+  <img src="https://img.shields.io/badge/-git-F05032?style=for-the-badge&logo=Git&logoColor=white" alt="GIT badge"/>
 </div>
