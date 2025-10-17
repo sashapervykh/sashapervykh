@@ -25,4 +25,5 @@
    <img src="https://img.shields.io/badge/-zod-408AFF?style=for-the-badge&logo=zod&logoColor=white" alt="React Hook Form badge"/>
   <img src="https://img.shields.io/badge/-mui-007FFF?style=for-the-badge&logo=mui&logoColor=white" alt="MUI badge"/>
   <img src="https://img.shields.io/badge/-ant_design-0170FE?style=for-the-badge&logo=Ant%20Design&logoColor=white" alt="Ant Design badge"/>
+  <img src="https://img.shields.io/badge/-vitest-6E9F18?style=for-the-badge&logo=Vitest&logoColor=white" alt="Vitest badge"/>
 </div>
