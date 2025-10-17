@@ -21,5 +21,5 @@
    <img src="https://img.shields.io/badge/-redux-764ABC?style=for-the-badge&logo=Redux&logoColor=white" alt="Redux badge"/>
    <img src="https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white" alt="Next.JS badge"/>
   <img src="https://img.shields.io/badge/-tailwind_css-06B6D4?style=for-the-badge&logo=Tailwind%20CSS&logoColor=white" alt="Tailwind badge"/>
-  <img src="https://img.shields.io/badge/-node.js-5FA04E?style=for-the-badge&logo=Nodedotjs&logoColor=white" alt="Node.JS badge"/>
+  <img src="https://img.shields.io/badge/-react_hook_form-EC5990?style=for-the-badge&logo=React%20Hook%20Form&logoColor=white" alt="React Hook Form badge"/>
 </div>
